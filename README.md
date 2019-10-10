@@ -1,2 +1,2 @@
 # babelrc-loader
-##vue+ele+webpack的基础运用
+## vue+ele+webpack的基础运用
