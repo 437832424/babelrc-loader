@@ -9,7 +9,7 @@
             <el-submenu index="1">
                 <template slot="title">
                     <i class="el-icon-location"></i>
-                    <span slot="title">导航一</span>
+                    <span slot="title">导航一+</span>
                 </template>
                 <el-menu-item-group>
                     <span slot="title">分组一</span>
